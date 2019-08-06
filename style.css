@@ -1,0 +1,12 @@
+h1 {
+    font-size: 35px;
+    color: red;
+    text-align: center;
+}
+
+a {
+    font-size: 25px;
+    padding 20px;
+    background: blue;
+    color: black;
+}
