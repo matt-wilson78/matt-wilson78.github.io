@@ -2,12 +2,14 @@ h1 {
     font-size: 35px;
     color: red;
     text-align: center;
+    margin-bottom: 20px;
 }
 
 a {
     font-size: 25px;
     padding: 20px;
     background: blue;
-    color: black;
+    color: white;
     width: 40px;
+    margin: auto;
 }
